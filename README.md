@@ -1,6 +1,6 @@
 # cab-service
 
-A program that customers can use to book and pay for a rides.
+A program that customers can use to book and pay for rides.
 
 ## Usage
 

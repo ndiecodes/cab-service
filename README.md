@@ -4,9 +4,11 @@ A program that customers can use to book and pay for a rides.
 
 ## Usage
 
-- Clone project
-
 ```
-./cabby
+git clone https://github.com/ndiecodes/cab-service.git
+
+go build
+
+./cab-service
 
 ```

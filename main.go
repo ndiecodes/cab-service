@@ -146,7 +146,7 @@ func main() {
 
 	fmt.Println("Driving...")
 
-	time.Sleep(2 * time.Second)
+	time.Sleep(10 * time.Second)
 
 	fmt.Printf(" \nWe got here. Pay Up ₦%d.", transport.tFare)
 
